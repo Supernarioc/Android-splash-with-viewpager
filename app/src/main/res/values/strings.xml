@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Viewpager test</string>
+    <string name ='red'>#00ffff</string>
+    <string name ='blue'>#00ffff</string>
+    <string name ='green'>#00ffff</string>
+</resources>
